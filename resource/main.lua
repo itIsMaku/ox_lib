@@ -14,4 +14,4 @@ function lib.setClipboard(value)
 		action = 'setClipboard',
 		data = value
 	})
-end
+end 
